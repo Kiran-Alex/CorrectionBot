@@ -24,4 +24,4 @@ client.on('messageCreate', (message) => {
   }
 });
 
-client.login("MTExNTY2NDk5NDU4Mzk2OTc5Mw.G5xnJg.TXvDD0eegX0shSWSDiVG28aCwvx-oeBvVsMbvc");
+client.login("Place your token here");
